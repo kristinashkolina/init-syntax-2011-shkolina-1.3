@@ -1,4 +1,4 @@
-package com.getjavajob.training.kucherenkon.init.syntax.solution.util;
+package main.java.utile;
 
 import java.util.InputMismatchException;
 import java.util.List;
