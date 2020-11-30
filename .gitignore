@@ -1,0 +1,10 @@
+.gitignore file:
+# idea project files
+.idea/
+*.iml
+
+# compiler output
+target/
+
+# test log compiler
+test-compile.bat
